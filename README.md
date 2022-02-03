@@ -40,6 +40,6 @@ npm start
 
 <img src="https://user-images.githubusercontent.com/62821027/152206389-9f442e46-812d-49b7-aab8-0e2de12bc1f1.png">
 
-<h3>1. Sala de perguntas </h3>
+<h3>2. Sala de perguntas </h3>
 
 <img src="https://user-images.githubusercontent.com/62821027/152206569-b04104ef-940f-415b-a350-0262c77d8a37.png">
